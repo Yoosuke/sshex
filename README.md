@@ -10,7 +10,7 @@ by adding `sshex` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:sshex, "~> 0.1.0"}
+    {:sshex, "~> 0.0.1"}
   ]
 end
 ```
@@ -19,3 +19,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/sshex>.
 
+
+### SSHkeyを生成するmix taskを作成中
+
+まだ、このプログラムはメンテ中です。
